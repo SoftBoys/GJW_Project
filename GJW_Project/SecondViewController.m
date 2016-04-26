@@ -15,6 +15,7 @@
     NSString *strUrl = @"http://www.vvgong.com/";
     
     [self.webView loadRequest:[NSURLRequest requestWithURL:[NSURL URLWithString:strUrl]]];
+
     
 
 }
